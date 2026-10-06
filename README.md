@@ -5,11 +5,10 @@
 **Многостраничный адаптивный сайт об искусственном интеллекте и технологиях**<br>
 **A multi-page responsive website about AI and technology**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=html,css,figma" alt="HTML5, CSS3, Figma">
 
-[Русский](#-русский) · [English](#-english)
+<a href="#-русский"><img src="https://img.shields.io/badge/RU-Русский-1f3a2b?style=flat-square&labelColor=0f1f17" alt="Русский"></a>
+<a href="#-english"><img src="https://img.shields.io/badge/EN-English-1f3a2b?style=flat-square&labelColor=0f1f17" alt="English"></a>
 
 <img src="https://github.com/user-attachments/assets/7068cd32-ae52-4b2b-ab31-33d1a5e21032" alt="FutureTech — главная страница" width="100%">
 
