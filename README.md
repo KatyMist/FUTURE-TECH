@@ -7,8 +7,6 @@
 
 <a href="https://katymist.github.io/FUTURE-TECH/"><img src="https://img.shields.io/badge/Открыть_сайт-FutureTech-1f3a2b?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f1f17" alt="Открыть сайт"></a>
 
-<br><br>
-
 <img src="https://skillicons.dev/icons?i=html,css,figma" alt="HTML5, CSS3, Figma">
 
 
