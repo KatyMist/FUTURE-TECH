@@ -5,13 +5,20 @@
 **Многостраничный адаптивный сайт об искусственном интеллекте и технологиях**<br>
 **A multi-page responsive website about AI and technology**
 
+<a href="https://katymist.github.io/FUTURE-TECH/"><img src="https://img.shields.io/badge/Открыть_сайт-FutureTech-1f3a2b?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f1f17" alt="Открыть сайт"></a>
+
+<br><br>
+
 <img src="https://skillicons.dev/icons?i=html,css,figma" alt="HTML5, CSS3, Figma">
+
+<br><br>
 
 <a href="#-русский"><img src="https://img.shields.io/badge/RU-Русский-1f3a2b?style=flat-square&labelColor=0f1f17" alt="Русский"></a>
 <a href="#-english"><img src="https://img.shields.io/badge/EN-English-1f3a2b?style=flat-square&labelColor=0f1f17" alt="English"></a>
 
-<img src="https://github.com/user-attachments/assets/7068cd32-ae52-4b2b-ab31-33d1a5e21032" alt="FutureTech — главная страница" width="100%">
+<br><br>
 
+<img src="ССЫЛКА_НА_FUTURETECH_MOCKUP" alt="FutureTech — главная страница" width="100%">
 
 </div>
 
