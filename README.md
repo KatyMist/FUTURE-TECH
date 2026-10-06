@@ -11,12 +11,9 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,figma" alt="HTML5, CSS3, Figma">
 
-<br><br>
 
 <a href="#-русский"><img src="https://img.shields.io/badge/RU-Русский-1f3a2b?style=flat-square&labelColor=0f1f17" alt="Русский"></a>
 <a href="#-english"><img src="https://img.shields.io/badge/EN-English-1f3a2b?style=flat-square&labelColor=0f1f17" alt="English"></a>
-
-<br><br>
 
 <img src="ССЫЛКА_НА_FUTURETECH_MOCKUP" alt="FutureTech — главная страница" width="100%">
 
