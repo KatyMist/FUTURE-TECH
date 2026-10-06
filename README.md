@@ -21,9 +21,9 @@
 <br>
 
 > [!NOTE]
-> **О проекте.** Учебный проект по вёрстке, сделанный по видеоуроку на YouTube: **[смотреть урок](https://www.youtube.com/watch?v=hkYzqTKnSIg)**. Дизайн и идея принадлежат автору урока, вёрстка и скрипты — моя учебная работа.
+> **О проекте.** Учебная вёрстка по видеоуроку на YouTube: **[смотреть урок](https://www.youtube.com/watch?v=hkYzqTKnSIg)**. Макет и дизайн принадлежат автору урока, вёрстку и скрипты я повторяла вслед за видео.
 >
-> **About the project.** A front-end layout study project built following a YouTube video tutorial: **[watch the tutorial](https://www.youtube.com/watch?v=hkYzqTKnSIg)**. The design and concept belong to the tutorial author; the markup and scripts are my own learning work.
+> **About the project.** A layout study based on a YouTube video tutorial: **[watch the tutorial](https://www.youtube.com/watch?v=hkYzqTKnSIg)**. The design and concept belong to the tutorial author; I reproduced the markup and scripts by following the video.
 
 ---
 
