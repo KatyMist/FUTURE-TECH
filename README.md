@@ -39,14 +39,14 @@
 
 ### Что реализовано
 
-- 📱 **Адаптивная вёрстка** — от широких мониторов до смартфонов, размеры в `rem` и «резиновые» значения через SCSS-функции `rem()` и `fluid()`
-- 🍔 **Мобильное меню** — бургер-кнопка с оверлеем
-- 🗂 **Табы** — переключение категорий на главной, в новостях и ресурсах
-- ▶️ **Видеоплеер** — собственные кнопки воспроизведения для карточек с видео
-- 📖 **Раскрывающийся контент** — кнопка «Read Full Blog» в статье блога
-- 🔽 **Кастомный селект** — выбор кода страны в форме
-- ☎️ **Маска ввода телефона** — в форме обратной связи
-- 🧩 **БЭМ и компонентный подход** — каждый блок в отдельном SCSS-файле, каждый JS-компонент в отдельном классе
+- **Адаптивная вёрстка** — от широких мониторов до смартфонов, размеры в `rem` и «резиновые» значения через SCSS-функции `rem()` и `fluid()`
+- **Мобильное меню** — бургер-кнопка с оверлеем
+- **Табы** — переключение категорий на главной, в новостях и ресурсах
+- **Видеоплеер** — собственные кнопки воспроизведения для карточек с видео
+- **Раскрывающийся контент** — кнопка «Read Full Blog» в статье блога
+- **Кастомный селект** — выбор кода страны в форме
+- **Маска ввода телефона** — в форме обратной связи
+- **БЭМ и компонентный подход** — каждый блок в отдельном SCSS-файле, каждый JS-компонент в отдельном классе
 
 ### Технологии
 
@@ -88,14 +88,14 @@ npm run sass-watch    # компиляция SCSS → CSS в режиме наб
 
 ### Features
 
-- 📱 **Responsive layout** — from wide monitors down to phones, `rem` units and fluid sizes via the `rem()` and `fluid()` SCSS functions
-- 🍔 **Mobile menu** — burger button with an overlay
-- 🗂 **Tabs** — category switching on the Home, News and Resources pages
-- ▶️ **Video player** — custom play controls for video cards
-- 📖 **Expandable content** — a "Read Full Blog" button in the blog article
-- 🔽 **Custom select** — country code picker in the form
-- ☎️ **Phone input mask** — in the feedback form
-- 🧩 **BEM and components** — every block has its own SCSS file, every JS component is a separate class
+- **Responsive layout** — from wide monitors down to phones, `rem` units and fluid sizes via the `rem()` and `fluid()` SCSS functions
+- **Mobile menu** — burger button with an overlay
+- **Tabs** — category switching on the Home, News and Resources pages
+- **Video player** — custom play controls for video cards
+- **Expandable content** — a "Read Full Blog" button in the blog article
+- **Custom select** — country code picker in the form
+- **Phone input mask** — in the feedback form
+- **BEM and components** — every block has its own SCSS file, every JS component is a separate class
 
 ### Tech stack
 
