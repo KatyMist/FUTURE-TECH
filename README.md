@@ -14,7 +14,8 @@
 <a href="#-русский"><img src="https://img.shields.io/badge/RU-Русский-1f3a2b?style=flat-square&labelColor=0f1f17" alt="Русский"></a>
 <a href="#-english"><img src="https://img.shields.io/badge/EN-English-1f3a2b?style=flat-square&labelColor=0f1f17" alt="English"></a>
 
-<img src="ССЫЛКА_НА_FUTURETECH_MOCKUP" alt="FutureTech — главная страница" width="100%">
+<img width="2880" height="1600" alt="image" src="https://github.com/user-attachments/assets/a8eacc4a-0f52-4916-94d5-d0a087c9bde1" />
+
 
 </div>
 
